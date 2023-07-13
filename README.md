@@ -28,7 +28,7 @@ Kittygram - сервис для просмотра и публикации ко�
 1. Клонируйте репозиторий на свой компьютер:
 
     ```bash
-    git clone git@github.com:calculatedmediocrity/kittygram_final.git
+    git clone git@github.com:calculatedmediocrity/Dockerize-and-Deploy-Django-App.git
     ```
     ```bash
     cd kittygram
